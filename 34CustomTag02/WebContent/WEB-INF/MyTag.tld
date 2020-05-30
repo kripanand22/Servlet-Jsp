@@ -1,0 +1,11 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>1.2</jsp-version>
+	<short-name>ct</short-name>
+	
+	<tag>
+		<name>MyCustom</name>
+		<tag-class>p1.MyTag</tag-class>
+		<body-content>jsp</body-content>
+	</tag>
+</taglib>
